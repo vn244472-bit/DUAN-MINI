@@ -1,0 +1,8 @@
+Labs_sv/26IT102_NguyenVanloi_ThuVien/
+├── src/
+│   ├── structures.h   (Khai báo các struct CTDL & nguyên mẫu hàm)
+│   ├── functions.cpp  (Cài đặt chi tiết các hàm xử lý logic)
+│   └── main.cpp       (Menu điều hướng và luồng chạy chính)
+├── tests/
+│   └── test_cases.cpp (Chứa ít nhất 5 test cases tự động chứng minh thuật toán)
+└── README.md          (Tài liệu hướng dẫn, cấu trúc và hướng dẫn compile)
